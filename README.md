@@ -14,3 +14,5 @@ On create URL hit --> Dedicated Folder exists or not --> if exist --> create tex
 Read:
 
 On read URL hit --> display the count and the name of text files in the folder created
+
+## all in
